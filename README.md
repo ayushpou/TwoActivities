@@ -1,2 +1,2 @@
-![screenshot](s2.png)
-![gif](v1.gif)
+![screenshot](s3.png)
+![screenshot](s4.png)
